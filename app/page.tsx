@@ -104,7 +104,7 @@ export default function Page() {
   const audioRef = useRef<HTMLAudioElement | null>(null)
 
   useEffect(() => {
-    audioRef.current = new Audio('/styleplus.mp3')
+    audioRef.current = new Audio('/wizkid.mp3')
     audioRef.current.loop = true
     return () => {
       audioRef.current?.pause()
