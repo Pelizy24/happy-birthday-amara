@@ -1,5 +1,5 @@
 // Personalize the copy here: this is the central birthday content file.
-export const heroImage = 'https://images.unsplash.com/photo-1517841905240-472988babdf9?w=1200&q=85'
+export const heroImage = '/Amara 5.jpeg'
 
 export const aboutCards = [
   { title: 'FUN', icon: '✦', text: 'Life is simply more entertaining with her around.' },
